@@ -1,2 +1,3 @@
 # ForEarthwebsite
-lsakdjf;lkasjdflk;jsad;lfkjsadlkfjasd;lkfj
+
+Its just a website about the earth
